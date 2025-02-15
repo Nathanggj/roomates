@@ -1,0 +1,2 @@
+C:/Users/giuli/Desktop/coinqiz/coinquiz/android/app/.cxx/RelWithDebInfo/486s1di5/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/giuli/Desktop/coinqiz/coinquiz/android/app/.cxx/RelWithDebInfo/486s1di5/arm64-v8a/CMakeFiles/rebuild_cache.dir
